@@ -1,0 +1,49 @@
+.alignwide.wp-block-post-title {
+  color: #e81212;
+  font-weight: bolder;
+}
+
+a {
+  color: #000000;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+.has-text-align-right {
+  color: #000000;
+  font-weight: bolder;
+}
+
+.has-text-align-center {
+  color: #ff0000;
+  font-style: normal;
+  font-weight: bolder;
+}
+
+.custom-logo {
+  font-variant: small-caps;
+}
+
+.is-layout-constrained.wp-block-group {
+  color: #000000;
+  background-color: #e8d5c3;
+}
+
+.wp-block-spacer {
+  color: #b03737;
+  background-color: #f5b1b1;
+}
+
+#1 {
+  font-style: italic;
+  font-weight: lighter;
+}
+
+em {
+  color: #963c3c;
+  font-weight: bold;
+}
+
+p {
+  font-weight: lighter;
+}
