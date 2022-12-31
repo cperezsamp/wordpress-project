@@ -1,8 +1,8 @@
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var(--wp--custom--spacing--large, 8rem)"}}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--custom--spacing--large, 8rem)">
-<!-- wp:pattern {"slug":"twentytwentytwo/footer-default"} /-->
-</div>
-<!-- /wp:group -->
+
+<!-- #page -->
+<?php wp_footer(); ?>
+<html>
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -30,5 +30,4 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
 </body>
 
-
-
+</html>
